@@ -1,0 +1,129 @@
+images {
+  image: "/assets/spaceships/PNG/Spaceships/01/Spaceship_01_ORANGE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/01/Spaceship_01_RED.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/01/Spaceship_01_YELLOW.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/02/Spaceship_02_BLUE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/02/Spaceship_02_GREEN.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/02/Spaceship_02_NAVY BLUE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/02/Spaceship_02_ORANGE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/02/Spaceship_02_PURPLE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/02/Spaceship_02_RED.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/02/Spaceship_02_YELLOW.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/03/Spaceship_03_BLUE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/03/Spaceship_03_GREEN.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/03/Spaceship_03_NAVY BLUE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/03/Spaceship_03_ORANGE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/03/Spaceship_03_PURPLE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/03/Spaceship_03_RED.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/03/Spaceship_03_YELLOW.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/04/Spaceship_04_BLUE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/04/Spaceship_04_GREEN.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/04/Spaceship_04_NAVY BLUE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/04/Spaceship_04_ORANGE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/04/Spaceship_04_PURPLE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/04/Spaceship_04_RED.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/04/Spaceship_04_YELLOW.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/05/Spaceship_05_BLUE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/05/Spaceship_05_GREEN.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/05/Spaceship_05_NAVY BLUE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/05/Spaceship_05_ORANGE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/05/Spaceship_05_PURPLE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/05/Spaceship_05_RED.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/05/Spaceship_05_YELLOW.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/06/Spaceship_06_BLUE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/06/Spaceship_06_GREEN.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/06/Spaceship_06_NAVY BLUE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/06/Spaceship_06_ORANGE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/06/Spaceship_06_PURPLE.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/06/Spaceship_06_RED.png"
+}
+images {
+  image: "/assets/spaceships/PNG/Spaceships/06/Spaceship_06_YELLOW.png"
+}
+animations {
+  id: "New Animation"
+  images {
+    image: "/assets/spaceships/PNG/Spaceships/01/Spaceship_01_ORANGE.png"
+  }
+  images {
+    image: "/assets/spaceships/PNG/Spaceships/01/Spaceship_01_RED.png"
+  }
+  images {
+    image: "/assets/spaceships/PNG/Spaceships/01/Spaceship_01_YELLOW.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 3
+}
+extrude_borders: 2

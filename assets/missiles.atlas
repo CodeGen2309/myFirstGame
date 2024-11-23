@@ -1,0 +1,19 @@
+images {
+  image: "/assets/missiles/Missile02A.png"
+}
+images {
+  image: "/assets/missiles/Missile02B.png"
+}
+images {
+  image: "/assets/missiles/Missile02C.png"
+}
+images {
+  image: "/assets/missiles/Missile02D.png"
+}
+images {
+  image: "/assets/missiles/Missile02E.png"
+}
+images {
+  image: "/assets/missiles/Missile02F.png"
+}
+extrude_borders: 2

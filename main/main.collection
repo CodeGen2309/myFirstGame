@@ -1,0 +1,179 @@
+name: "main"
+instances {
+  id: "enemy"
+  prototype: "/main/enemy.go"
+  position {
+    x: 168.0
+    y: 489.0
+  }
+}
+instances {
+  id: "enemy1"
+  prototype: "/main/enemy.go"
+  position {
+    x: 328.0
+    y: 490.0
+  }
+}
+instances {
+  id: "enemy2"
+  prototype: "/main/enemy.go"
+  position {
+    x: 168.0
+    y: 489.0
+  }
+}
+instances {
+  id: "enemy3"
+  prototype: "/main/enemy.go"
+  position {
+    x: 459.0
+    y: 489.0
+  }
+}
+instances {
+  id: "enemy4"
+  prototype: "/main/enemy.go"
+  position {
+    x: 619.0
+    y: 490.0
+  }
+}
+instances {
+  id: "enemy5"
+  prototype: "/main/enemy.go"
+  position {
+    x: 459.0
+    y: 489.0
+  }
+}
+instances {
+  id: "enemy6"
+  prototype: "/main/enemy.go"
+  position {
+    x: 157.0
+    y: 350.0
+  }
+}
+instances {
+  id: "enemy7"
+  prototype: "/main/enemy.go"
+  position {
+    x: 317.0
+    y: 351.0
+  }
+}
+instances {
+  id: "enemy8"
+  prototype: "/main/enemy.go"
+  position {
+    x: 157.0
+    y: 350.0
+  }
+}
+instances {
+  id: "enemy9"
+  prototype: "/main/enemy.go"
+  position {
+    x: 448.0
+    y: 350.0
+  }
+}
+instances {
+  id: "enemy10"
+  prototype: "/main/enemy.go"
+  position {
+    x: 608.0
+    y: 351.0
+  }
+}
+instances {
+  id: "enemy11"
+  prototype: "/main/enemy.go"
+  position {
+    x: 448.0
+    y: 350.0
+  }
+}
+instances {
+  id: "enemy12"
+  prototype: "/main/enemy.go"
+  position {
+    x: 142.0
+    y: 622.0
+  }
+}
+instances {
+  id: "enemy13"
+  prototype: "/main/enemy.go"
+  position {
+    x: 302.0
+    y: 623.0
+  }
+}
+instances {
+  id: "enemy14"
+  prototype: "/main/enemy.go"
+  position {
+    x: 142.0
+    y: 622.0
+  }
+}
+instances {
+  id: "enemy15"
+  prototype: "/main/enemy.go"
+  position {
+    x: 433.0
+    y: 622.0
+  }
+}
+instances {
+  id: "enemy16"
+  prototype: "/main/enemy.go"
+  position {
+    x: 593.0
+    y: 623.0
+  }
+}
+instances {
+  id: "enemy17"
+  prototype: "/main/enemy.go"
+  position {
+    x: 433.0
+    y: 622.0
+  }
+}
+scale_along_z: 0
+embedded_instances {
+  id: "ship"
+  data: "components {\n"
+  "  id: \"ship\"\n"
+  "  component: \"/scripts/ship.script\"\n"
+  "}\n"
+  "embedded_components {\n"
+  "  id: \"sprite\"\n"
+  "  type: \"sprite\"\n"
+  "  data: \"default_animation: \\\"New Animation\\\"\\n"
+  "material: \\\"/builtins/materials/sprite.material\\\"\\n"
+  "textures {\\n"
+  "  sampler: \\\"texture_sampler\\\"\\n"
+  "  texture: \\\"/assets/ships.atlas\\\"\\n"
+  "}\\n"
+  "\"\n"
+  "}\n"
+  "embedded_components {\n"
+  "  id: \"bullet\"\n"
+  "  type: \"factory\"\n"
+  "  data: \"prototype: \\\"/main/missile.go\\\"\\n"
+  "\"\n"
+  "}\n"
+  ""
+  position {
+    x: 141.0
+    y: 92.0
+  }
+  scale3 {
+    x: 0.2
+    y: 0.2
+  }
+}
