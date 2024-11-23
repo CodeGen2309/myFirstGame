@@ -5,16 +5,16 @@ components {
 embedded_components {
   id: "sprite"
   type: "sprite"
-  data: "default_animation: \"Spaceship_02_YELLOW\"\n"
+  data: "default_animation: \"resized\"\n"
   "material: \"/builtins/materials/sprite.material\"\n"
   "textures {\n"
   "  sampler: \"texture_sampler\"\n"
-  "  texture: \"/assets/ships.atlas\"\n"
+  "  texture: \"/assets/enemy.atlas\"\n"
   "}\n"
   ""
   scale {
-    x: 0.2
-    y: 0.2
+    x: 1.291176
+    y: 1.183206
   }
 }
 embedded_components {

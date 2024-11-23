@@ -1,5 +1,7 @@
 function on_message(self, message_id, message)
 	if message_id == hash("trigger_response") and message.enter then
-		go.delete()
+		sprite.play_flipbook("#sprite", "destroy", function ()
+			go.delete()
+		end)
 	end
 end

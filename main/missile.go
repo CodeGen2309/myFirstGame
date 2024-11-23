@@ -21,8 +21,8 @@ embedded_components {
   "    index: 0\n"
   "    count: 3\n"
   "  }\n"
-  "  data: 49.93293\n"
-  "  data: 87.43596\n"
+  "  data: 36.58245\n"
+  "  data: 66.968864\n"
   "  data: 10.0\n"
   "}\n"
   ""
@@ -30,15 +30,15 @@ embedded_components {
 embedded_components {
   id: "sprite"
   type: "sprite"
-  data: "default_animation: \"Missile02A\"\n"
+  data: "default_animation: \"resized\"\n"
   "material: \"/builtins/materials/sprite.material\"\n"
   "textures {\n"
   "  sampler: \"texture_sampler\"\n"
-  "  texture: \"/assets/missiles.atlas\"\n"
+  "  texture: \"/assets/missile.atlas\"\n"
   "}\n"
   ""
   scale {
-    x: 0.4
-    y: 0.4
+    x: 1.76784
+    y: 1.674604
   }
 }

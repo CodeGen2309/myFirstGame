@@ -1,0 +1,41 @@
+images {
+  image: "/assets/missiles/resized.png"
+}
+animations {
+  id: "boomFX"
+  images {
+    image: "/assets/boomFX/1.png"
+  }
+  images {
+    image: "/assets/boomFX/2.png"
+  }
+  images {
+    image: "/assets/boomFX/3.png"
+  }
+  images {
+    image: "/assets/boomFX/4.png"
+  }
+  images {
+    image: "/assets/boomFX/5.png"
+  }
+  images {
+    image: "/assets/boomFX/6.png"
+  }
+  images {
+    image: "/assets/boomFX/7.png"
+  }
+  images {
+    image: "/assets/boomFX/8.png"
+  }
+  images {
+    image: "/assets/boomFX/9.png"
+  }
+  images {
+    image: "/assets/boomFX/10.png"
+  }
+  images {
+    image: "/assets/boomFX/11.png"
+  }
+  fps: 10
+}
+extrude_borders: 2

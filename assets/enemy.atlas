@@ -1,0 +1,41 @@
+images {
+  image: "/assets/enemy/resized.png"
+}
+animations {
+  id: "destroy"
+  images {
+    image: "/assets/boomFX/1.png"
+  }
+  images {
+    image: "/assets/boomFX/2.png"
+  }
+  images {
+    image: "/assets/boomFX/3.png"
+  }
+  images {
+    image: "/assets/boomFX/4.png"
+  }
+  images {
+    image: "/assets/boomFX/5.png"
+  }
+  images {
+    image: "/assets/boomFX/6.png"
+  }
+  images {
+    image: "/assets/boomFX/7.png"
+  }
+  images {
+    image: "/assets/boomFX/8.png"
+  }
+  images {
+    image: "/assets/boomFX/9.png"
+  }
+  images {
+    image: "/assets/boomFX/10.png"
+  }
+  images {
+    image: "/assets/boomFX/11.png"
+  }
+  fps: 20
+}
+extrude_borders: 2
