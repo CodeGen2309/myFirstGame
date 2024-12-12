@@ -3,156 +3,186 @@ instances {
   id: "enemy"
   prototype: "/main/enemy.go"
   position {
-    x: 168.0
-    y: 489.0
+    x: 283.0
+    y: 454.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy1"
   prototype: "/main/enemy.go"
   position {
-    x: 328.0
-    y: 490.0
+    x: 443.0
+    y: 455.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy2"
   prototype: "/main/enemy.go"
   position {
-    x: 168.0
-    y: 489.0
+    x: 283.0
+    y: 454.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy3"
   prototype: "/main/enemy.go"
   position {
-    x: 459.0
-    y: 489.0
+    x: 574.0
+    y: 454.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy4"
   prototype: "/main/enemy.go"
   position {
-    x: 619.0
-    y: 490.0
+    x: 734.0
+    y: 455.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy5"
   prototype: "/main/enemy.go"
   position {
-    x: 459.0
-    y: 489.0
+    x: 574.0
+    y: 454.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy6"
   prototype: "/main/enemy.go"
   position {
-    x: 157.0
-    y: 350.0
+    x: 272.0
+    y: 315.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy7"
   prototype: "/main/enemy.go"
   position {
-    x: 317.0
-    y: 351.0
+    x: 432.0
+    y: 316.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy8"
   prototype: "/main/enemy.go"
   position {
-    x: 157.0
-    y: 350.0
+    x: 272.0
+    y: 315.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy9"
   prototype: "/main/enemy.go"
   position {
-    x: 448.0
-    y: 350.0
+    x: 563.0
+    y: 315.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy10"
   prototype: "/main/enemy.go"
   position {
-    x: 608.0
-    y: 351.0
+    x: 723.0
+    y: 316.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy11"
   prototype: "/main/enemy.go"
   position {
-    x: 448.0
-    y: 350.0
+    x: 563.0
+    y: 315.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy12"
   prototype: "/main/enemy.go"
   position {
-    x: 142.0
-    y: 622.0
+    x: 257.0
+    y: 587.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy13"
   prototype: "/main/enemy.go"
   position {
-    x: 302.0
-    y: 623.0
+    x: 417.0
+    y: 588.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy14"
   prototype: "/main/enemy.go"
   position {
-    x: 142.0
-    y: 622.0
+    x: 257.0
+    y: 587.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy15"
   prototype: "/main/enemy.go"
   position {
-    x: 433.0
-    y: 622.0
+    x: 548.0
+    y: 587.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy16"
   prototype: "/main/enemy.go"
   position {
-    x: 593.0
-    y: 623.0
+    x: 708.0
+    y: 588.0
+    z: 1.0
   }
 }
 instances {
   id: "enemy17"
   prototype: "/main/enemy.go"
   position {
-    x: 433.0
-    y: 622.0
+    x: 548.0
+    y: 587.0
+    z: 1.0
   }
 }
 instances {
   id: "player"
   prototype: "/main/player.go"
   position {
-    x: 162.0
-    y: 92.0
+    x: 506.0
+    y: 106.0
+    z: 1.0
   }
   scale3 {
     x: 0.2
     y: 0.2
+  }
+}
+instances {
+  id: "background"
+  prototype: "/main/background.go"
+}
+instances {
+  id: "background1"
+  prototype: "/main/background.go"
+  position {
+    y: 1024.0
   }
 }
 scale_along_z: 0

@@ -1,6 +1,6 @@
 components {
-  id: "ship"
-  component: "/scripts/ship.script"
+  id: "player"
+  component: "/scripts/player.script"
 }
 embedded_components {
   id: "sprite"
