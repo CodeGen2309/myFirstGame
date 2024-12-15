@@ -1,0 +1,25 @@
+animations {
+  id: "shine"
+  images {
+    image: "/assets/star/star-2-0.png"
+  }
+  images {
+    image: "/assets/star/star-3-0.png"
+  }
+  images {
+    image: "/assets/star/star-1-0.png"
+  }
+  images {
+    image: "/assets/star/star-0-0.png"
+  }
+  playback: PLAYBACK_LOOP_PINGPONG
+  fps: 5
+}
+animations {
+  id: "default"
+  images {
+    image: "/assets/star/star-2-0.png"
+  }
+  playback: PLAYBACK_NONE
+}
+extrude_borders: 2

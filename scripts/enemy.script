@@ -1,7 +1,28 @@
+function init(self)
+	self.margins = 40
+	self.counter = 0
+	self.step = 1
+
+end
+
 function on_message(self, message_id, message)
 	if message_id == hash("trigger_response") and message.enter then
 		sprite.play_flipbook("#sprite", "destroy", function ()
 			go.delete()
 		end)
 	end
+end
+
+
+function update(self)
+	local pos = go.get_position()
+
+	if self.counter >= self.margins or
+	self.counter <= -self.margins then
+		self.step = -self.step
+	end
+
+	pos.x = pos.x + self.step
+	self.counter = self.counter + self.step
+	go.set_position(pos)
 end

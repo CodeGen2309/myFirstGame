@@ -185,4 +185,364 @@ instances {
     y: 1024.0
   }
 }
+instances {
+  id: "star"
+  prototype: "/main/star.go"
+  position {
+    x: 263.0
+    y: 83.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star1"
+  prototype: "/main/star.go"
+  position {
+    x: 357.0
+    y: 132.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star2"
+  prototype: "/main/star.go"
+  position {
+    x: 690.0
+    y: 117.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star3"
+  prototype: "/main/star.go"
+  position {
+    x: 443.0
+    y: 126.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star4"
+  prototype: "/main/star.go"
+  position {
+    x: 764.0
+    y: 146.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star5"
+  prototype: "/main/star.go"
+  position {
+    x: 143.0
+    y: 196.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star6"
+  prototype: "/main/star.go"
+  position {
+    x: 237.0
+    y: 245.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star7"
+  prototype: "/main/star.go"
+  position {
+    x: 570.0
+    y: 230.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star8"
+  prototype: "/main/star.go"
+  position {
+    x: 323.0
+    y: 239.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star9"
+  prototype: "/main/star.go"
+  position {
+    x: 644.0
+    y: 259.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star10"
+  prototype: "/main/star.go"
+  position {
+    x: 446.0
+    y: 443.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star11"
+  prototype: "/main/star.go"
+  position {
+    x: 480.0
+    y: 336.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star12"
+  prototype: "/main/star.go"
+  position {
+    x: 887.0
+    y: 350.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star13"
+  prototype: "/main/star.go"
+  position {
+    x: 767.0
+    y: 463.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star14"
+  prototype: "/main/star.go"
+  position {
+    x: 566.0
+    y: 330.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star15"
+  prototype: "/main/star.go"
+  position {
+    x: 360.0
+    y: 449.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star16"
+  prototype: "/main/star.go"
+  position {
+    x: 386.0
+    y: 287.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star17"
+  prototype: "/main/star.go"
+  position {
+    x: 266.0
+    y: 400.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star18"
+  prototype: "/main/star.go"
+  position {
+    x: 813.0
+    y: 321.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star19"
+  prototype: "/main/star.go"
+  position {
+    x: 693.0
+    y: 434.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star20"
+  prototype: "/main/star.go"
+  position {
+    x: 242.0
+    y: 615.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star21"
+  prototype: "/main/star.go"
+  position {
+    x: 806.0
+    y: 726.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star22"
+  prototype: "/main/star.go"
+  position {
+    x: 276.0
+    y: 508.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star23"
+  prototype: "/main/star.go"
+  position {
+    x: 279.0
+    y: 825.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star24"
+  prototype: "/main/star.go"
+  position {
+    x: 683.0
+    y: 522.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star25"
+  prototype: "/main/star.go"
+  position {
+    x: 563.0
+    y: 635.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star26"
+  prototype: "/main/star.go"
+  position {
+    x: 362.0
+    y: 502.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star27"
+  prototype: "/main/star.go"
+  position {
+    x: 156.0
+    y: 621.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star28"
+  prototype: "/main/star.go"
+  position {
+    x: 732.0
+    y: 697.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star29"
+  prototype: "/main/star.go"
+  position {
+    x: 399.0
+    y: 712.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star30"
+  prototype: "/main/star.go"
+  position {
+    x: 182.0
+    y: 459.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star31"
+  prototype: "/main/star.go"
+  position {
+    x: 305.0
+    y: 663.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star32"
+  prototype: "/main/star.go"
+  position {
+    x: 185.0
+    y: 776.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star33"
+  prototype: "/main/star.go"
+  position {
+    x: 686.0
+    y: 839.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star34"
+  prototype: "/main/star.go"
+  position {
+    x: 62.0
+    y: 572.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star35"
+  prototype: "/main/star.go"
+  position {
+    x: 365.0
+    y: 819.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star36"
+  prototype: "/main/star.go"
+  position {
+    x: 609.0
+    y: 493.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star37"
+  prototype: "/main/star.go"
+  position {
+    x: 485.0
+    y: 706.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star38"
+  prototype: "/main/star.go"
+  position {
+    x: 612.0
+    y: 810.0
+    z: 1.0
+  }
+}
+instances {
+  id: "star39"
+  prototype: "/main/star.go"
+  position {
+    x: 489.0
+    y: 606.0
+    z: 1.0
+  }
+}
 scale_along_z: 0
