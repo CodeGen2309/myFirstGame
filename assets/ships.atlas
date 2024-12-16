@@ -115,15 +115,15 @@ images {
 animations {
   id: "New Animation"
   images {
+    image: "/assets/spaceships/PNG/Spaceships/01/Spaceship_01_YELLOW.png"
+  }
+  images {
     image: "/assets/spaceships/PNG/Spaceships/01/Spaceship_01_ORANGE.png"
   }
   images {
     image: "/assets/spaceships/PNG/Spaceships/01/Spaceship_01_RED.png"
   }
-  images {
-    image: "/assets/spaceships/PNG/Spaceships/01/Spaceship_01_YELLOW.png"
-  }
-  playback: PLAYBACK_LOOP_FORWARD
+  playback: PLAYBACK_LOOP_PINGPONG
   fps: 3
 }
 extrude_borders: 2

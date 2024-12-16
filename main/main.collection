@@ -193,6 +193,10 @@ instances {
     y: 83.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star1"
@@ -201,6 +205,10 @@ instances {
     x: 357.0
     y: 132.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -211,6 +219,10 @@ instances {
     y: 117.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star3"
@@ -219,6 +231,10 @@ instances {
     x: 443.0
     y: 126.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -229,6 +245,10 @@ instances {
     y: 146.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star5"
@@ -237,6 +257,10 @@ instances {
     x: 143.0
     y: 196.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -247,6 +271,10 @@ instances {
     y: 245.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star7"
@@ -255,6 +283,10 @@ instances {
     x: 570.0
     y: 230.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -265,6 +297,10 @@ instances {
     y: 239.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star9"
@@ -273,6 +309,10 @@ instances {
     x: 644.0
     y: 259.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -283,6 +323,10 @@ instances {
     y: 443.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star11"
@@ -291,6 +335,10 @@ instances {
     x: 480.0
     y: 336.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -301,6 +349,10 @@ instances {
     y: 350.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star13"
@@ -309,6 +361,10 @@ instances {
     x: 767.0
     y: 463.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -319,6 +375,10 @@ instances {
     y: 330.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star15"
@@ -327,6 +387,10 @@ instances {
     x: 360.0
     y: 449.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -337,6 +401,10 @@ instances {
     y: 287.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star17"
@@ -345,6 +413,10 @@ instances {
     x: 266.0
     y: 400.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -355,6 +427,10 @@ instances {
     y: 321.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star19"
@@ -363,6 +439,10 @@ instances {
     x: 693.0
     y: 434.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -373,6 +453,10 @@ instances {
     y: 615.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star21"
@@ -381,6 +465,10 @@ instances {
     x: 806.0
     y: 726.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -391,6 +479,10 @@ instances {
     y: 508.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star23"
@@ -399,6 +491,10 @@ instances {
     x: 279.0
     y: 825.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -409,6 +505,10 @@ instances {
     y: 522.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star25"
@@ -417,6 +517,10 @@ instances {
     x: 563.0
     y: 635.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -427,6 +531,10 @@ instances {
     y: 502.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star27"
@@ -435,6 +543,10 @@ instances {
     x: 156.0
     y: 621.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -445,6 +557,10 @@ instances {
     y: 697.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star29"
@@ -453,6 +569,10 @@ instances {
     x: 399.0
     y: 712.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -463,6 +583,10 @@ instances {
     y: 459.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star31"
@@ -471,6 +595,10 @@ instances {
     x: 305.0
     y: 663.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -481,6 +609,10 @@ instances {
     y: 776.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star33"
@@ -489,6 +621,10 @@ instances {
     x: 686.0
     y: 839.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -499,6 +635,10 @@ instances {
     y: 572.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star35"
@@ -507,6 +647,10 @@ instances {
     x: 365.0
     y: 819.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -517,6 +661,10 @@ instances {
     y: 493.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star37"
@@ -525,6 +673,10 @@ instances {
     x: 485.0
     y: 706.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
   }
 }
 instances {
@@ -535,6 +687,10 @@ instances {
     y: 810.0
     z: 1.0
   }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
 }
 instances {
   id: "star39"
@@ -543,6 +699,22 @@ instances {
     x: 489.0
     y: 606.0
     z: 1.0
+  }
+  scale3 {
+    x: 0.5
+    y: 0.5
+  }
+}
+instances {
+  id: "portal"
+  prototype: "/main/portal.go"
+  position {
+    x: 503.0
+    y: 383.0
+  }
+  scale3 {
+    x: 3.0
+    y: 3.0
   }
 }
 scale_along_z: 0
