@@ -2,17 +2,34 @@ function init(self)
 	self.margins = 40
 	self.counter = 0
 	self.step = 1
+	self.ranDelay = math.random()
 
+	timer.delay(self.ranDelay, false, jumpAnim)
 end
 
 
 function on_message(self, message_id, message)
-	if message_id == hash("trigger_response") and message.enter then
+	if message_id == hash("trigger_response") and 
+	message.enter then
+		desctroyAnim()
+	end
+end
+
+function jumpAnim ()
+	sprite.play_flipbook('#sprite', 'jumpin', idleAnim)
+end
+
+function idleAnim()
+	sprite.play_flipbook('#sprite', 'resized')
+end
+
+
+function desctroyAnim ()
 		sprite.play_flipbook("#sprite", "destroy", function ()
 			go.delete()
 		end)
-	end
 end
+
 
 
 function update(self)

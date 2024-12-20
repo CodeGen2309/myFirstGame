@@ -38,4 +38,43 @@ animations {
   }
   fps: 20
 }
+animations {
+  id: "jumpin"
+  images {
+    image: "/assets/portal/124_37.png"
+  }
+  images {
+    image: "/assets/portal/124_38.png"
+  }
+  images {
+    image: "/assets/portal/124_39.png"
+  }
+  images {
+    image: "/assets/portal/124_40.png"
+  }
+  images {
+    image: "/assets/portal/124_41.png"
+  }
+  images {
+    image: "/assets/portal/124_42.png"
+  }
+  images {
+    image: "/assets/portal/124_43.png"
+  }
+  images {
+    image: "/assets/portal/124_44.png"
+  }
+  images {
+    image: "/assets/portal/124_45.png"
+  }
+  fps: 15
+}
+animations {
+  id: "none"
+  images {
+    image: "/assets/boomFX/11.png"
+  }
+  playback: PLAYBACK_NONE
+  fps: 10
+}
 extrude_borders: 2
