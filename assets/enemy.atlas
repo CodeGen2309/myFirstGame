@@ -41,31 +41,61 @@ animations {
 animations {
   id: "jumpin"
   images {
-    image: "/assets/portal/124_37.png"
+    image: "/assets/portal/703_23.png"
   }
   images {
-    image: "/assets/portal/124_38.png"
+    image: "/assets/portal/703_24.png"
   }
   images {
-    image: "/assets/portal/124_39.png"
+    image: "/assets/portal/703_25.png"
   }
   images {
-    image: "/assets/portal/124_40.png"
+    image: "/assets/portal/703_26.png"
   }
   images {
-    image: "/assets/portal/124_41.png"
+    image: "/assets/portal/703_27.png"
   }
   images {
-    image: "/assets/portal/124_42.png"
+    image: "/assets/portal/703_28.png"
   }
   images {
-    image: "/assets/portal/124_43.png"
+    image: "/assets/portal/703_29.png"
   }
   images {
-    image: "/assets/portal/124_44.png"
+    image: "/assets/portal/703_30.png"
   }
   images {
-    image: "/assets/portal/124_45.png"
+    image: "/assets/portal/703_31.png"
+  }
+  images {
+    image: "/assets/portal/703_32.png"
+  }
+  images {
+    image: "/assets/portal/703_33.png"
+  }
+  images {
+    image: "/assets/portal/703_34.png"
+  }
+  images {
+    image: "/assets/portal/703_35.png"
+  }
+  images {
+    image: "/assets/portal/703_36.png"
+  }
+  images {
+    image: "/assets/portal/703_37.png"
+  }
+  images {
+    image: "/assets/portal/703_38.png"
+  }
+  images {
+    image: "/assets/portal/703_39.png"
+  }
+  images {
+    image: "/assets/portal/703_40.png"
+  }
+  images {
+    image: "/assets/portal/703_41.png"
   }
   fps: 15
 }
